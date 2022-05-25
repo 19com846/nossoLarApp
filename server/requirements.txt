@@ -4,7 +4,7 @@ pytz==2018.9
 sqlparse==0.3.0
 django-enumfields==1.0.0
 djangorestframework-jwt==1.11.0
-PyJWT==1.6.1
+PyJWT==2.4.0
 django-rest-swagger==2.2.0
 drf-yasg==1.15.0
 django-cors-headers==3.0.1
